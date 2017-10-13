@@ -1,6 +1,6 @@
 {
     "advertising": {
-        "enabled": false,
+        "enabled": true,
         "adServerUrl": "google.com",
         "adTimeout": "3000",
         "maxAds": 100,
