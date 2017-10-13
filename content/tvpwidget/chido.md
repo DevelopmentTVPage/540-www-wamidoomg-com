@@ -10,6 +10,6 @@
     "type": "carousel",
     "title": "Chido",
     "name": "chido",
-    "channelId": "117407923",
+    "channelId": "117407922",
     "layout": "bootstrap"
 }
