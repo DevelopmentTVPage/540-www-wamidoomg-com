@@ -8,7 +8,7 @@
     },
     "preload": true,
     "type": "carousel",
-    "title": "que la",
+    "title": "sdfh",
     "name": "chido",
     "channelId": "117407921",
     "layout": "bootstrap",
