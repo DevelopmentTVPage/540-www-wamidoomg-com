@@ -12,6 +12,6 @@
     "name": "chido",
     "channelId": "117407921",
     "layout": "bootstrap",
-    "autoplay": true,
+    "autoplay": false,
     "autonext": false
 }
