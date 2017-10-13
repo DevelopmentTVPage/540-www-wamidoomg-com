@@ -1,6 +1,6 @@
 {
     "advertising": {
-        "enabled": true,
+        "enabled": false,
         "adServerUrl": "ACMPT",
         "adTimeout": "3000",
         "maxAds": 100,
