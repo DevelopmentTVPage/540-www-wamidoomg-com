@@ -11,5 +11,6 @@
     "title": "Chido",
     "name": "chido",
     "channelId": "117407922",
-    "layout": "bootstrap"
+    "layout": "bootstrap",
+    "autoplay": true
 }
