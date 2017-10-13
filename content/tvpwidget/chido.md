@@ -10,7 +10,7 @@
     "type": "carousel",
     "title": "que la",
     "name": "chido",
-    "channelId": "117407921",
+    "channelId": "117407923",
     "layout": "bootstrap",
     "autoplay": true,
     "autonext": false
