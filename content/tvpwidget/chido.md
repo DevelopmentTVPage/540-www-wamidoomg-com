@@ -1,7 +1,7 @@
 {
     "advertising": {
         "enabled": false,
-        "adServerUrl": "ACMPT",
+        "adServerUrl": "google.com",
         "adTimeout": "3000",
         "maxAds": 100,
         "adInterval": 0
