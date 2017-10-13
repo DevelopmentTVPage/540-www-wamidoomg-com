@@ -8,9 +8,9 @@
     },
     "preload": true,
     "type": "carousel",
-    "title": "Chido",
+    "title": "Malo",
     "name": "chido",
-    "channelId": "117407922",
+    "channelId": "117407921",
     "layout": "bootstrap",
     "autoplay": true,
     "autonext": false
