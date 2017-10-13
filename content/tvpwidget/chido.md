@@ -2,7 +2,7 @@
     "advertising": {
         "enabled": true,
         "adServerUrl": "ACMPT",
-        "adTimeout": 2000,
+        "adTimeout": "3000",
         "maxAds": 100,
         "adInterval": 0
     },
