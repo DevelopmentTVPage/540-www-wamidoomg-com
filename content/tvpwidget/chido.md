@@ -1,16 +1,16 @@
 {
     "advertising": {
-        "enabled": true,
-        "adServerUrl": null,
-        "adTimeout": 2000,
+        "enabled": false,
+        "adServerUrl": "ACMPT",
+        "adTimeout": "3000",
         "maxAds": 100,
         "adInterval": 0
     },
     "preload": true,
     "type": "carousel",
-    "title": "Chido",
+    "title": "que la",
     "name": "chido",
-    "channelId": "117407922",
+    "channelId": "117407923",
     "layout": "bootstrap",
     "autoplay": true,
     "autonext": false
